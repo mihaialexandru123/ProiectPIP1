@@ -69,6 +69,7 @@ public class Interfata extends JFrame {
 		});
 		btnVortex.setBounds(10, 62, 145, 63);
 		contentPane.add(btnVortex);
+		// olx.ro
 		
 		JButton btnVortexPorturi = new JButton("Vortex porturi");
 		btnVortexPorturi.setFont(new Font("Tahoma", Font.BOLD, 12));
